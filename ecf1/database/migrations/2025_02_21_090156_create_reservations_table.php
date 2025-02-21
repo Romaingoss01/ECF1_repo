@@ -13,6 +13,9 @@ return new class extends Migration
     {
         Schema::create('reservations', function (Blueprint $table) {
             $table->id();
+            $table->string('nom');
+            $table->foreignIdFor(App\Models\Crenaux::class, 'id_crenaux');
+            $table->foreignIdFor(App\Models\User::class, 'id_client');
             $table->timestamps();
         });
     }

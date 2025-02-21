@@ -3,6 +3,8 @@
 namespace Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
+use App\Models\Client;
+use App\Models\Crenaux;
 
 /**
  * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\Reservation>
@@ -17,7 +19,9 @@ class ReservationFactory extends Factory
     public function definition(): array
     {
         return [
-            //
+            'nom'=>'Res.'.fake()->randomNumber(),
+            'id_client'=>Client::factory(),
+            'id_crenaux'=>Crenaux::factory(),
         ];
     }
 }

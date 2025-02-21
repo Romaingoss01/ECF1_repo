@@ -13,6 +13,9 @@ return new class extends Migration
     {
         Schema::create('crenauxes', function (Blueprint $table) {
             $table->id();
+            $table->dateTime('debut');
+            $table->dateTime('fin');
+            $table->foreignIdFor(App\Models\Cour::class, 'id_cour');
             $table->timestamps();
         });
     }

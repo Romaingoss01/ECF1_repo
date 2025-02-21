@@ -17,7 +17,7 @@ class CourFactory extends Factory
     public function definition(): array
     {
         return [
-            //
+            'nom'=>fake()->randomElement(['yoga','cardio','musculation']),
         ];
     }
 }
