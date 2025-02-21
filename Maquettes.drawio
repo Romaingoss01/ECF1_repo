@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.15">
+  <diagram name="Page-1" id="V1QF8rTjXip_ABjp5eTM">
+    <mxGraphModel dx="1291" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="1420" width="700" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="1430" width="690" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-3" value="Accueil" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="1450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-4" value="Faire une Réservation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-5" value="Toutes les réservations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="1450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-6" value="Réservation de Monsieur X&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cours de Yoga&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;15/04/2025&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="1610" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-7" value="Réservation de Monsieur X&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cours de Cardio&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;30/02/2025&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="1820" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-8" value="Réservation de Madame X&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cours de Musculation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;18/03/2025&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="1720" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1430" width="700" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1440" width="700" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-11" value="Accueil" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-12" value="Faire une Réservation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-13" value="Toutes les réservations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-14" value="Cours de Yoga" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1620" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-15" value="Cours de Cardio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1830" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-16" value="Cours de Musculation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1730" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1430" width="700" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1440" width="700" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-19" value="Accueil" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-20" value="Faire une Réservation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-21" value="Toutes les réservations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-22" value="&lt;div&gt;Réserver&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Cours de Yoga" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1620" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-23" value="&lt;div&gt;Réserver&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Cours de Cardio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1830" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-24" value="&lt;div&gt;Réserver&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Cours de Musculation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1730" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-29" value="Page 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="2050" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-30" value="Page 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="2050" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-31" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hc7JAjvN8xn8YCNdrQmH-29" target="Hc7JAjvN8xn8YCNdrQmH-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2240" y="2050" as="sourcePoint" />
+            <mxPoint x="2290" y="2000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-34" value="Suivante" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="2020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-35" value="Précèdente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="2020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-36" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Page D&#39;accueil&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-37" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Page Réservation&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1415" y="1350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-38" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Page Visualisation des réservations&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="1330" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-40" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="1420" width="700" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="1430" width="700" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-42" value="Accueil" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="1450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-43" value="Faire une Réservation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="1450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-44" value="Toutes les réservations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="1450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-53" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Page Gestion des Cours&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="1320" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-54" value="Administration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="1450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-55" value="Administration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="1460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-56" value="Administration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-57" value="Administration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3170" y="1450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7JAjvN8xn8YCNdrQmH-58" value="Ajouter un Cours" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="1590" width="230" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
