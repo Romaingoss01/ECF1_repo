@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->dateTime('debut');
             $table->dateTime('fin');
-            $table->foreignIdFor(App\Models\Cour::class, 'id_cour');
+            $table->foreignIdFor(App\Models\Cour::class, 'id_cours')->constrained()->cascadeOnDelete();
             $table->timestamps();
         });
     }

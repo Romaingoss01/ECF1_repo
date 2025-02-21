@@ -13,6 +13,7 @@ class Cour extends Model
 
     protected $fillable = [
         'nom',
+        'id',
     ];
 
     public function Lien_Cours_Vers_Crenaux(){

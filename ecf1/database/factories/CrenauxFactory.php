@@ -3,7 +3,7 @@
 namespace Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use App\Modesl\Cour;
+use App\Models\Cour;
 
 /**
  * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\Crenaux>

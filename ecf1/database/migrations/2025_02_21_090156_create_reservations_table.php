@@ -14,8 +14,8 @@ return new class extends Migration
         Schema::create('reservations', function (Blueprint $table) {
             $table->id();
             $table->string('nom');
-            $table->foreignIdFor(App\Models\Crenaux::class, 'id_crenaux');
-            $table->foreignIdFor(App\Models\User::class, 'id_client');
+            $table->foreignIdFor(App\Models\Crenaux::class, 'id_crenaux')->constrained()->cascadeOnDelete();
+            $table->foreignIdFor(App\Models\Client::class, 'id_client')->constrained()->cascadeOnDelete();
             $table->timestamps();
         });
     }
